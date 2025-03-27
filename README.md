@@ -31,13 +31,15 @@ O sistema utiliza uma base de dados interna contendo dezenas de doenças, cada u
 
 1. Compile o código com um compilador C++ (ex: `g++`):
 
-   ```bash
-   g++ Diagnostico.cpp -o Diagnostico
+```bash
+g++ Diagnostico.cpp -o Diagnostico
+```
 
 2. Execute o programa:
 
-   ```bash
-   ./Diagnostico
+```bash
+./Diagnostico
+```
 <br>
 
 ## 🛠️ Tecnologias utilizadas
