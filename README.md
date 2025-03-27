@@ -44,8 +44,8 @@ g++ Diagnostico.cpp -o Diagnostico
 
 ## 🛠️ Tecnologias utilizadas
 
-Linguagem: C++
-Biblioteca padrão: iostream, string, vector, map, algorithm, cctype.
+</br>Linguagem: C++
+</br>Biblioteca padrão: iostream, string, vector, map, algorithm, cctype.
 
 <br>
 
