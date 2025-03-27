@@ -43,7 +43,7 @@ O sistema utiliza uma base de dados interna contendo dezenas de doenças, cada u
 ## 🛠️ Tecnologias utilizadas
 
 Linguagem: C++
-Biblioteca padrão: <iostream>, <string>, <vector>, <map>, <algorithm>, <cctype>
+Biblioteca padrão: iostream, string, vector, map, algorithm, cctype.
 
 <br>
 
