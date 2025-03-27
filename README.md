@@ -33,3 +33,28 @@ O sistema utiliza uma base de dados interna contendo dezenas de doenças, cada u
 
    ```bash
    g++ Diagnostico.cpp -o Diagnostico
+
+2. Execute o programa:
+
+   ```bash
+   ./Diagnostico
+<br>
+
+## 🛠️ Tecnologias utilizadas
+
+Linguagem: C++
+Biblioteca padrão: <iostream>, <string>, <vector>, <map>, <algorithm>, <cctype>
+
+<br>
+
+## 📁 Estrutura do projeto
+Diagnostico.cpp: arquivo principal com toda a lógica do sistema.
+Diagnostico.exe: versão executável do sistema (Windows).
+
+<br>
+
+## OBSERVAÇÕES!
+O diagnóstico fornecido é apenas indicativo. Recomenda-se sempre procurar um médico para confirmação e realização de exames laboratoriais.
+O sistema considera apenas os sintomas descritos pelo usuário no momento e não acessa nenhum banco de dados externo.
+
+<br>
