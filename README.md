@@ -50,8 +50,8 @@ Biblioteca padrão: iostream, string, vector, map, algorithm, cctype.
 <br>
 
 ## 📁 Estrutura do projeto
-Diagnostico.cpp: arquivo principal com toda a lógica do sistema.
-Diagnostico.exe: versão executável do sistema (Windows).
+</br>Diagnostico.cpp: arquivo principal com toda a lógica do sistema.
+</br>Diagnostico.exe: versão executável do sistema (Windows).
 
 <br>
 
